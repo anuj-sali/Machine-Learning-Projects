@@ -1,2 +1,5 @@
 # Machine-Learning-Projects
-This folder contains ML projects that use different ML alogorithms.
+Welcome to ML Projects folks!
+Through various ML projects, various types of problems are solved using the knowledge gained by reading different books and MOOC's courses.
+Feel free to browse upon these :)
+
