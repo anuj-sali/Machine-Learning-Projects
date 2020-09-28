@@ -6,6 +6,15 @@ Applied are various ML algorithms and seen how hyperparameters tuning works.
 Everything is personalized here.
 Score:0.74
 
+
+
+
+
+
+
+
+
+
 REFERENCES:
 1. PYTHON FOR DATA ANALYSIS.
 2. INTRODUCTION TO ML WITH PYTHON.
