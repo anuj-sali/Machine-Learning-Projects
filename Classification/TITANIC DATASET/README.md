@@ -6,7 +6,7 @@ Everything is personalized here.
 Hope you enjoy!
 
 
-Trial 1: Score:0.74
+Trial 1: Kaggle Score:0.74
 
 
 
