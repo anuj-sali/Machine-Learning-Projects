@@ -1,0 +1,2 @@
+This is a typical Housing Price Prediction Supervised ML problem in which I have used different algorithms of regression ranging from Linear Regression to all the way to Random Forest to improve the performance of ML model.
+The main highlight is Hyperparameter Tuning in which I have used RandomizedSearchCV and GridSearchCV.
